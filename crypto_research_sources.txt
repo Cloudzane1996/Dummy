@@ -1,0 +1,57 @@
+
+# FILE: crypto_research_sources.txt
+# VERSION: 1.0
+# PURPOSE: Curated list of top-tier crypto education and analysis sources for use with your GPT crypto mentor.
+
+----------------------------
+TOP BOOKS (Available as PDF or EPUB):
+
+1. The Bitcoin Standard – Saifedean Ammous
+2. The Sovereign Individual – James Dale Davidson & William Rees-Mogg
+3. Layered Money – Nik Bhatia
+4. Cryptoassets – Chris Burniske & Jack Tatar
+5. Rich Dad Poor Dad – Robert Kiyosaki (for cashflow mindset, not crypto-specific)
+
+----------------------------
+TOP NEWS / ANALYSIS WEBSITES:
+
+1. https://www.coindesk.com/
+2. https://cointelegraph.com/
+3. https://messari.io/
+4. https://www.theblock.co/
+5. https://defillama.com/
+
+----------------------------
+TOP TWITTER/X ACCOUNTS TO TRACK (for alpha and narrative trends):
+
+- @RaoulGMI
+- @balajis
+- @APompliano
+- @crypto_condom
+- @TheDeFiEdge
+- @punk9059
+- @Cobie
+- @0xfoobar
+
+----------------------------
+OTHER TOOLS / DATA TRACKERS:
+
+1. https://token.unlocks.app/ → token unlock schedules
+2. https://dune.com/ → on-chain dashboards
+3. https://defillama.com/yields → best yield protocols
+4. https://rekt.news/ → biggest hacks and security incidents
+5. https://cryptopanic.com/ → real-time news aggregator
+
+----------------------------
+RECOMMENDED STRATEGY:
+Download and store PDF/EPUB versions of the top 3–4 books.
+Use tools like JDownloader or wget to archive articles from blogs you follow.
+Upload the saved documents to the GPT's "Knowledge" section for local referencing.
+
+If real-time access is active (web browsing), GPT can auto-check these sources at runtime.
+If not, GPT will rely on what it learns from uploaded data.
+
+----------------------------
+TIPS:
+- Update this file monthly with new accounts and blogs.
+- Use it to track evolving narratives (AI tokens, Real World Assets, Layer 2s, etc).

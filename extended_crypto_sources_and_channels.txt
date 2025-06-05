@@ -1,0 +1,92 @@
+
+# FILE: extended_crypto_sources_and_channels.txt
+# VERSION: 1.1
+# LAST UPDATED: 2025-06-05 15:00:55
+
+=========================
+📚 CORE TEXT-BASED FILES TO UPLOAD
+=========================
+
+Recommended upload types to GPT "Knowledge" section:
+- .txt files (prompts, config, profile, rules)
+- .pdf books or whitepapers (Bitcoin, Ethereum, tokenomics)
+- .epub (books readable by Calibre or ebook readers)
+- .md files (markdown notes, strategy logs)
+- .html (saved articles or tweet threads)
+- .csv/.xlsx (if using datasets, token performance logs, portfolio snapshots)
+
+=========================
+🔗 GITHUB REPOS TO TRACK
+=========================
+
+1. https://github.com/bitcoin/bitcoin – Bitcoin Core Protocol
+2. https://github.com/ethereum/go-ethereum – Ethereum official client
+3. https://github.com/pancakeswap/pancake-frontend – DEX frontend example
+4. https://github.com/Uniswap – Uniswap protocol smart contracts
+5. https://github.com/satoshilabs/slips – BIP standards (hardware wallet protocols)
+
+=========================
+🧵 TWITTER / X ACCOUNTS
+=========================
+
+- https://twitter.com/RaoulGMI
+- https://twitter.com/balajis
+- https://twitter.com/APompliano
+- https://twitter.com/DefiLlama
+- https://twitter.com/ArkInvest
+- https://twitter.com/elonmusk
+- https://twitter.com/tedtalksmacro
+- https://twitter.com/0xfoobar
+
+=========================
+📷 INSTAGRAM (Limited Alpha Use)
+=========================
+
+- https://www.instagram.com/cryptocomofficial/
+- https://www.instagram.com/binance/
+- https://www.instagram.com/altcoindaily/
+
+⚠️ Use for sentiment, reels, influencer scan — not technical depth.
+
+=========================
+🟥 TRUTH SOCIAL / ALTERNATIVE PLATFORMS
+=========================
+
+- https://truthsocial.com/@realDonaldTrump
+- https://truthsocial.com/@CryptoBeadles
+- https://truthsocial.com/@DigitalCurrencyGuy
+
+⚠️ Conservative-leaning sentiment and community projects — use for sentiment tracking and regulatory influence.
+
+=========================
+🗨️ REDDIT THREADS & SUBREDDITS
+=========================
+
+- https://www.reddit.com/r/CryptoCurrency/
+- https://www.reddit.com/r/CryptoMarkets/
+- https://www.reddit.com/r/ethfinance/
+- https://www.reddit.com/r/Bitcoin/
+- https://www.reddit.com/r/CryptoMoonShots/ (⚠️ high risk – trend-only)
+
+💡 Use Reddit for:
+- Early project discovery
+- Market sentiment
+- Token launch discussions
+- Scam call-outs and on-chain degen activity
+
+=========================
+📎 TIP: HOW TO SAVE ARTICLES
+=========================
+
+- Use Chrome Extension: “Print Friendly & PDF”
+- Use https://webtopdf.com/ for fast export
+- Archive with https://archive.is for non-editable backups
+- Save Twitter threads with https://threadreaderapp.com/
+
+=========================
+📁 FINAL NOTE
+=========================
+
+All above links and sources can be converted into downloadable content (.pdf, .txt, .html) and uploaded into GPT for local access.
+
+For real-time awareness, combine local files + enable Browsing + upload this file in Knowledge section.
