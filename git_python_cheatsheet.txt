@@ -1,0 +1,21 @@
+# git_python_cheatsheet.txt
+## Git basics
+git clone <url>              # copy repo local
+git status                   # see changes
+git add <file|dir|.>         # stage changes
+git commit -m "msg"          # snapshot
+git push origin main         # upload
+
+## Branching
+git checkout -b feat_xyz     # new branch
+git merge feat_xyz           # merge into current
+git pull                     # fetch + merge remote
+
+## Python virtualenv
+python -m venv .venv
+source .venv/bin/activate  (Windows: .venv\Scripts\activate)
+pip install -r requirements.txt
+deactivate
+
+## Common packages
+pip install requests beautifulsoup4 pandas

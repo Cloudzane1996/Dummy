@@ -1,0 +1,16 @@
+# daily_macro_digest_prompt.txt
+Prompt for GPT Automations – run every morning 08:00 local
+
+"Give me a 10‑bullet macro & crypto digest for the past 24 h:
+ • Fed / ECB / PBoC highlights
+ • SEC / CFTC / MiCA regulatory actions
+ • ETF flows (BTC, ETH)
+ • On‑chain metrics (active addresses, exchange inflows/outflows top 3 coins)
+ • Liquidations >10 MUSD
+ • Top 5 gainers & losers (>100 M cap)
+ • Notable hacks / exploits
+ • Upcoming token unlocks (next 3 days)
+ • Funding‑rate anomalies
+ • Major narrative shifts (AI, RWA, meme cycle)
+
+Conclude with 1 actionable insight for a low‑risk DCA investor."
